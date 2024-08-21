@@ -1,0 +1,164 @@
+[
+    {
+        "id": 1,
+        "name": "camera",
+        "price": 10.9,
+        "imgUrl": "/img/camera.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Desk",
+        "price": 15,
+        "imgUrl": "/img/desk.jpg"
+    },
+    {
+        "id": 3,
+        "name": "portable",
+        "price": 20,
+        "imgUrl": "/img/portable.jpg"
+    },
+    {
+        "id": 4,
+        "name": "smartWatch",
+        "price": 500,
+        "imgUrl": "/img/smart.jpg"
+    },
+    {
+        "id": 5,
+        "name": "tablette",
+        "price": 250,
+        "imgUrl": "/img/tablette.jpg"
+    },
+    {
+        "id": 6,
+        "name": "said",
+        "price": 290,
+        "imgUrl": "/img/camera.jpg"
+    },
+    {
+        "id": 7,
+        "name": "sadaoui",
+        "price": 90,
+        "imgUrl": "/img/desk.jpg"
+    },
+    {
+        "id": 8,
+        "name": "abdou",
+        "price": 20,
+        "imgUrl": "/img/portable.jpg"
+    },
+    {
+        "id": 9,
+        "name": "meriem",
+        "price": 206,
+        "imgUrl": "/img/smart.jpg"
+    },
+    {
+        "id": 10,
+        "name": "stat",
+        "price": 206,
+        "imgUrl": "/img/smart.jpg"
+    },
+    {
+        "id": 11,
+        "name": "dodo",
+        "price": 206,
+        "imgUrl": "/img/smart.jpg"
+    },
+    {
+        "id": 12,
+        "name": "fofo",
+        "price": 206,
+        "imgUrl": "/img/smart.jpg"
+    },
+    {
+        "id": 13,
+        "name": "houma",
+        "price": 206,
+        "imgUrl": "/img/smart.jpg"
+    },
+    {
+        "id": 14,
+        "name": "hna",
+        "price": 206,
+        "imgUrl": "/img/smart.jpg"
+    },
+    {
+        "id": 15,
+        "name": "lolo",
+        "price": 206,
+        "imgUrl": "/img/smart.jpg"
+    },
+    {
+        "id": 16,
+        "name": "hhh",
+        "price": 206,
+        "imgUrl": "/img/smart.jpg"
+    },
+    {
+        "id": 17,
+        "name": "ahya",
+        "price": 206,
+        "imgUrl": "/img/smart.jpg"
+    },
+    {
+        "id": 18,
+        "name": "hakim",
+        "price": 206,
+        "imgUrl": "/img/smart.jpg"
+    },
+    {
+        "id": 19,
+        "name": "lala",
+        "price": 206,
+        "imgUrl": "/img/smart.jpg"
+    },
+    {
+        "id": 20,
+        "name": "mahou",
+        "price": 206,
+        "imgUrl": "/img/smart.jpg"
+    },
+    {
+        "id": 21,
+        "name": "portable",
+        "price": 200,
+        "imgUrl": "/img/portable.jpg"
+    },
+    {
+        "id": 22,
+        "name": "portable",
+        "price": 70,
+        "imgUrl": "/img/portable.jpg"
+    },
+    {
+        "id": 23,
+        "name": "portable",
+        "price": 80,
+        "imgUrl": "/img/portable.jpg"
+    },
+    {
+        "id": 24,
+        "name": "portable",
+        "price": 2000,
+        "imgUrl": "/img/portable.jpg"
+    },
+    {
+        "id": 25,
+        "name": "portable",
+        "price": 990,
+        "imgUrl": "/img/portable.jpg"
+    },
+    {
+        "id": 26,
+        "name": "portable",
+        "price": 459,
+        "imgUrl": "/img/portable.jpg"
+    },
+    {
+        "id": 27,
+        "name": "portable",
+        "price": 358,
+        "imgUrl": "/img/portable.jpg"
+    }
+]
