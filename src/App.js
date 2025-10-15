@@ -12,6 +12,8 @@ import { SignUp } from "./Componenet/SignUp";
 import { SignIn } from "./Componenet/SignIn";
 import { ForgotPass } from "./Componenet/ForgotPass";
 import { UpdateProfile } from "./Componenet/UpdateProfile";
+import { ProductDetails } from "./Componenet/ProductDetails";
+import { Footer } from "./Componenet/Footer";
 
 function App() {
   return ( 
@@ -26,8 +28,11 @@ function App() {
           <Route path="/SignIn" element={<SignIn />} />
           <Route path="/ForgotPass" element={<ForgotPass />} />
           <Route path="/updateProfile" element={<UpdateProfile />} />
+          <Route path="/product/:id" element={<ProductDetails />} />
+
         </Routes>
       </Container>
+      <Footer/>
     </ShoppingCartProvider>
   );
 }
